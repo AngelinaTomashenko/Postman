@@ -1,2 +1,4 @@
 # Postman
-Requests
+## Requests ##
++ Method Get
++ Method Post
